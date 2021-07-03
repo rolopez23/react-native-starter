@@ -1,7 +1,7 @@
 # Expo Build
 
 ## Node
-Make sure to install Node version 12LTS
+Make sure to install Node version 12LTS or newer
 node -v
 
 nvm install node 12
